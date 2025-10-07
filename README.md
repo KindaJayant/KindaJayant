@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KindaJayant/KindaJayant/main/banner.png" alt="Jayant Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/KindaJayant/KindaJayant/main/banner.jpg" alt="Jayant Banner" width="100%" />
   <h1>Hey there, I'm <b>Jayant Singh Bisht</b> 👋</h1>
   <h3>🚀 Fullstack & AI Developer | Building Intelligent Web Experiences</h3>
 </div>
