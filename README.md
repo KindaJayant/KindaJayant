@@ -1,58 +1,92 @@
-<!-- Header Section -->
+<!-- Profile Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi 👋, I'm Aditya Jha</h1>
-  <h3>🚀 Fullstack Developer | AI Integrator | Problem Solver</h3>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <h1>Hey there, I'm <b>Jayant Singh Bisht</b> 👋</h1>
+  <h3>🚀 Fullstack & AI Developer | Building Intelligent Web Experiences</h3>
 </div>
 
 ---
 
-### 💫 About Me:
-- 🔭 Currently exploring **AI integrations and backend systems**  
-- 🌱 Learning **Agentic AI, LLMs, and Python automation**  
-- 👯 Looking to collaborate on **AI + Web projects**  
-- ⚡ Fun fact: I **build things faster with ChatGPT & Gemini 😎**
+### 💫 About Me
+- 🎓 B.E. in Computer Science and Business Systems @ Thapar Institute of Engineering & Technology  
+- 🧠 Passionate about **AI-driven web applications**, **cloud-native solutions**, and **developer experience**  
+- 🧩 Experienced in React, Next.js, Node.js, and integrating **AI APIs** into scalable platforms  
+- 💼 Former Web Developer Intern @ NVISH Solutions  
+- ⚙️ Currently exploring **LLMs, Agentic AI, and backend architecture**  
+- ✨ I love turning ideas into clean, high-performing products.  
 
 ---
 
-### 🛠️ Tech Stack:
+### 🧰 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,git,github,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,postgres,prisma,typescript,javascript,python,cpp,aws,git,github,vscode,firebase" />
 </div>
 
 ---
 
-### 📊 GitHub Stats:
+### 🧩 Featured Projects
+
+#### 🎙️ [AI Voice Interview Platform](https://github.com/KindaJayant/ai-interview)
+> An AI-powered voice-based interview simulator achieving **90% transcription accuracy** and **30% lower latency** in responses.  
+Tech: `Next.js` · `Node.js` · `React.js` · `Firebase` · `Vapi`
+
+#### 🧠 [SAAS AI Platform](https://github.com/KindaJayant/SAAS-AI-Platform)
+> Multi-feature AI platform integrating **OpenAI APIs** for content & code generation with secure Stripe integration.  
+Tech: `Next.js` · `TypeScript` · `MongoDB` · `Stripe` · `TailwindCSS`
+
+#### 📰 [MyBlog](https://github.com/KindaJayant/my-blog)
+> A modern blog platform with **JWT authentication**, **AI content suggestions**, and a responsive UI.  
+Tech: `React.js` · `Node.js` · `Express` · `MongoDB`
+
+---
+
+### 🌱 Currently Exploring
+- 🧩 Agentic AI and LLM Integrations  
+- 🧠 Advanced TypeScript and Python  
+- ☁️ Cloud Architecture and Scalability  
+
+---
+
+### 📈 GitHub Stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=false)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=radical&hide_border=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KindaJayant&theme=radical&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KindaJayant&theme=radical&hide_border=false&count_private=true&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KindaJayant&theme=radical&hide_border=false&layout=compact)
 
 </div>
 
 ---
 
-### 🧠 Wakatime Coding Stats:
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
-
----
-
-### 🌐 Connect With Me:
+### 🏆 Achievements & Contributions
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=KindaJayant&theme=onedark&margin-w=10&margin-h=10)
+
 </div>
 
 ---
 
-### 🏆 Achievements:
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=onedark)
+### 🌐 Connect With Me
+<div align="center">
+
+<a href="https://linkedin.com/in/kindajayant" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+<a href="mailto:iamjayant246@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+<a href="https://portfolio-kindajayants-projects.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="45" /></a>
+<a href="https://github.com/KindaJayant" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+
+</div>
 
 ---
 
-### ❤️ Views and Followers:
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/YOURUSERNAME?label=Follow&style=social)](https://github.com/YOURUSERNAME)
+### ❤️ Views & Followers
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=KindaJayant&label=Profile%20Views&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/KindaJayant?label=Follow&style=social)](https://github.com/KindaJayant)
+
+</div>
+
+---
+
+> 💡 “Engineering for me isn’t about code — it’s about creating value through intelligent systems.”
