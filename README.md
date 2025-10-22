@@ -43,10 +43,11 @@ Tech: `React.js` · `Node.js` · `Express` · `MongoDB`
 
 ---
 
-### 🌱 Currently Exploring
-- 🧩 Agentic AI and LLM Integrations  
-- 🧠 Advanced TypeScript and Python  
-- ☁️ Cloud Architecture and Scalability  
+### 🌱 Current Focus
+- LLM APIs (OpenAI, Anthropic, HuggingFace)
+- LangChain & Prompt Engineering
+- AI + Product Development
+ 
 
 ---
 
