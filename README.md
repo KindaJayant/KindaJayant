@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kindajayants-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kindajayant)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KindaJayant)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjayant246@gmail.com)
+<a href="https://portfolio-kindajayants-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/kindajayant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/KindaJayant"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:iamjayant246@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,nodejs,mongodb,firebase,aws,git&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,nodejs,mongodb,firebase,aws,git&theme=dark" /></a>
 
 </div>
 
@@ -86,6 +86,6 @@
 
 *"Build things that think."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=KindaJayant&color=6E40C9&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=KindaJayant&color=6E40C9&style=flat-square" alt="Profile Views" />
 
 </div>
