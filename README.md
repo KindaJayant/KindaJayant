@@ -40,9 +40,9 @@
 
 </div>
 
-**AI / LLM:** n8n · Promptfoo · Gemini · OpenRouter · Multi-agent orchestration · RAG · Prompt Engineering  
-**Frontend:** React · Next.js · TypeScript  
-**Backend:** Node.js · MongoDB · SQL · Firebase · REST APIs  
+**AI / LLM:** LangGraph · ChromaDB · n8n · Promptfoo · Gemini · OpenRouter · Multi-agent orchestration · RAG · Prompt Engineering  
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
+**Backend:** FastAPI · Node.js · MongoDB · SQL · Firebase · REST APIs · WebSockets  
 **Infra:** AWS · Git · Vercel  
 
 ---
@@ -51,10 +51,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ResearchAgent**](https://github.com/KindaJayant) | Autonomous AI equity research agent — 30 min → <60s per company, zero paid APIs | Python · Gemini · Screener.in |
+| [**Codebase Onboarding Agent**](https://github.com/KindaJayant/codebase-onboarding-agent) | Autonomous agent that transforms any GitHub repo into a senior-developer-level onboarding report — DAG-orchestrated, real-time streamed, fully local embeddings | Python · LangGraph · FastAPI · ChromaDB · WebSockets |
+| [**ResearchAgent**](https://github.com/KindaJayant/ResearchAgent) | Autonomous AI equity research agent — 30 min → <60s per company, zero paid APIs | Python · Gemini · Screener.in |
 | [**AI Interview Platform**](https://github.com/KindaJayant/ai-interview) | Voice-based AI interview simulator with 90% voice-to-text accuracy | Next.js · Vapi · Firebase |
-| [**SAAS AI Platform**](https://github.com/KindaJayant/SAAS-AI-Platform) | Scalable AI backend with RAG-based semantic retrieval, 2x relevance over keyword search | TypeScript · RAG · Async APIs |
-| [**StudyNotion**](https://github.com/KindaJayant/StudyNotion) | Full-stack EdTech platform | MERN Stack |
 
 ---
 
@@ -62,8 +61,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-beta-six-77.vercel.app/api/top-langs/?username=KindaJayant&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats-beta-six-77.vercel.app/api?username=KindaJayant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-beta-six-77.vercel.app/api/top-langs/?username=KindaJayant&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats-beta-six-77.vercel.app/api?username=KindaJayant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
 
 <br/>
 
