@@ -83,8 +83,6 @@
 
 <div align="center">
 
-*"Build things that think."*
-
 <img src="https://komarev.com/ghpvc/?username=KindaJayant&color=6E40C9&style=flat-square" alt="Profile Views" />
 
 </div>
