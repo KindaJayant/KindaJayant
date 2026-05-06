@@ -66,8 +66,6 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KindaJayant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
