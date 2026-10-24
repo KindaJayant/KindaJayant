@@ -2,13 +2,13 @@
 
 # Jayant Singh Bisht
 
-### Associate Product Manager, AI · SuperInvesting
+### Associate Product Manager · SuperInvesting
 
 **I lead product for an AI equity research platform, and I came up through its AI engineering, so I build and evaluate the things I ship.**
 
 Super Trading App · Ex-AI Engineer Intern @ The Future University · Thapar '26 · Chandigarh, India
 
-<a href="https://jayant-cli.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://jayantsinghbisht.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/jayantsinghbisht/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://arxiv.org/abs/2603.08704"><img src="https://img.shields.io/badge/arXiv-2603.08704-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv paper"/></a>
 <a href="https://x.com/kindajayant"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -20,7 +20,7 @@ Super Trading App · Ex-AI Engineer Intern @ The Future University · Thapar '26
 
 ## Product: SuperInvesting (AI equity research, 5,000+ Indian stocks)
 
-Since I took over product in June 2026:
+Since June 2026 (user growth driven by the Economic Times partnership):
 
 | Metric | Jun 2026 | Now |
 |---|---|---|
@@ -31,7 +31,8 @@ Since I took over product in June 2026:
 | AI cost per 1,000 questions | $48 | **$5** (~90% lower) |
 
 - 💸 **Cut AI cost by about 90%.** I traced a 1.9x spend jump to a model price hike rather than user growth. I then made the case for replacing the 7-agent framework with one orchestrator that uses tools, followed by a model switch, and ran the launch testing for both.
-- 📊 **Designed a 3-layer stock scoring system** that runs every two weeks on 5,000+ stocks. It combines 19 industry-specific prompts with industry-weighted pillars, investor-persona scores (Buffett, Lynch, Jhunjhunwala, 100-bagger) and an analyst review of outlier scores.
+- 📊 **Designed SCOPE**, an internal AI stock-scoring tool, and drove the team to build it. It runs red-flag screening, sector rubrics and five investor personas for up to 8,000 companies, locally on teammates’ devices with existing AI plans, cutting the cost of a scoring run from about $1,000 to near zero.
+- 💬 **Redesigned customer support end to end:** a self-serve help centre with English and Hindi video guides, screenshot uploads, two-way ticket threads and AI ticket analysis.
 - 🧑‍💼 **Designed and ran hiring** for the AI Innovator role across 20 campuses.
 
 ## Before product: AI engineering
