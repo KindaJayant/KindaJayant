@@ -1,11 +1,16 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I%27m+Jayant+%F0%9F%91%8B;AI+Engineer+%7C+Builder+%7C+CSBS+%40+Thapar;LLMs+%7C+Multi-Agent+Systems+%7C+Full-Stack" alt="Typing SVG" /></a>
+# Jayant Singh Bisht
 
-<br/>
+### AI Product Engineer
 
-<a href="https://portfolio-kindajayants-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+**I find the user problem, ship the AI agent, and measure whether it actually works.**
+
+Currently AI Engineer Intern @ The Future University (SuperInvesting) · CSBS @ Thapar Institute '26 · Chandigarh, India
+
+<a href="https://jayant-cli.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/kindajayant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://arxiv.org/abs/2603.08704"><img src="https://img.shields.io/badge/arXiv-2603.08704-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv paper"/></a>
 <a href="https://x.com/kindajayant"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:iamjayant246@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -13,74 +18,41 @@
 
 ---
 
-## 🧠 About Me
+## What I've shipped
 
-- 🤖 **AI Engineer Intern** @ The Future University — building institutional-grade AI for Indian equities
-- 🏗️ Architected a **7-agent equity research platform** covering 5,000+ stocks across 4 investor frameworks
-- 📊 Built **211-test Promptfoo eval suites** that lifted agent pass rates from ~21–57% → 75–100%
-- 🌐 Full-stack roots — MERN, Next.js, Firebase, AWS
-- 🎓 BE in Computer Science & Business Systems @ **Thapar Institute** (2026)
-- 📍 Based in **Chandigarh, India**
+**At SuperInvesting (AI equity research for 5,000+ Indian stocks, 5,000+ active users)**
 
----
+- 📈 **Raised agent eval pass rates from 21–57% to 75–100%** across a 7-agent research platform by rewriting system prompts and fixing broken agent connections, tracked over 17 eval runs
+- 🧪 **Built the quality bar:** a 350+ test Promptfoo eval suite (50 tests per agent) plus PostHog LLM observability for token cost and latency per run
+- ⚙️ **Shipped n8n scoring workflows** for an AI stock-scoring system covering 5,000+ equities
+- 🔁 **Improved Chart Analyzer and Portfolio Analyzer** through prompt iterations driven by real user feedback
+- 🎬 **Automated video production:** 100+ motion-graphic videos generated with Remotion and HyperFrames, with no manual editing
 
-## 🔨 What I'm Working On
+**Research and open source**
 
-- 🚀 `superinvesting-evals` — eval infrastructure for LLM agents in the finance domain
-- 🛠️ `PromptOps-Tool` — tooling around prompt engineering workflows
-- 📚 Levelling up on **Python**, **DSA**, and **AI systems design**
+- 📄 **Co-authored [AFIB](https://arxiv.org/abs/2603.08704)**, a financial-intelligence benchmark comparing GPT, Gemini, Perplexity, Claude and SuperInvesting across 95+ questions and 5 dimensions
+- 🔀 **Merged PRs:** [promptfoo#8330](https://github.com/promptfoo/promptfoo/pull/8330) passes provider metadata through eval runs · [opensre#297](https://github.com/Tracer-Cloud/opensre/pull/297) adds a Notion integration
 
 ---
 
-## 🛠️ Tech-Stack
+## Featured projects
 
-<div align="center">
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,nodejs,mongodb,firebase,aws,git&theme=dark" /></a>
-
-</div>
-
-**AI / LLM:** LangGraph · ChromaDB · n8n · Promptfoo · Gemini · OpenRouter · Multi-agent orchestration · RAG · Prompt Engineering  
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
-**Backend:** FastAPI · Node.js · MongoDB · SQL · Firebase · REST APIs · WebSockets  
-**Infra:** AWS · Git · Vercel  
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
+| Project | Problem → outcome | Stack |
 |---|---|---|
-| [**Codebase Onboarding Agent**](https://github.com/KindaJayant/codebase-onboarding-agent) | Autonomous agent that transforms any GitHub repo into a senior-developer-level onboarding report — DAG-orchestrated, real-time streamed, fully local embeddings | Python · LangGraph · FastAPI · ChromaDB · WebSockets |
-| [**ResearchAgent**](https://github.com/KindaJayant/ResearchAgent) | Autonomous AI equity research agent — 30 min → <60s per company, zero paid APIs | Python · Gemini · Screener.in |
-| [**AI Interview Platform**](https://github.com/KindaJayant/ai-interview) | Voice-based AI interview simulator with 90% voice-to-text accuracy | Next.js · Vapi · Firebase |
+| [**ResearchAgent**](https://github.com/KindaJayant/analyst-project) · [live](https://analyst-project-ten.vercel.app/) | Equity research used to take 30+ minutes per company. This agent writes a 6-section investment brief in under 60 seconds and uses no paid APIs. | Next.js · TypeScript · Gemini · OpenRouter |
+| [**Codebase Onboarding Agent**](https://github.com/KindaJayant/codebase-onboarding-agent) · [live](https://codebase-onboarding-agent-r6wv.onrender.com/) | New developers lose days learning an unfamiliar repo. This agent turns any GitHub repo into an onboarding report. It runs AST extraction across languages and keeps embeddings fully local. | Python · LangGraph · Tree-sitter · ChromaDB |
+| [**PromptOps Tool**](https://github.com/KindaJayant/PromptOps-Tool) · [live](https://prompt-ops-tool.vercel.app/) | Prompt changes were often made on intuition. This workspace adds versioning, side-by-side diffs and evals against saved versions. | React · FastAPI · PostgreSQL |
 
 ---
 
-## 📈 GitHub Stats
+## Toolkit
 
-<div align="center">
-
-<img src="https://github-readme-stats-beta-six-77.vercel.app/api/top-langs/?username=KindaJayant&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats-beta-six-77.vercel.app/api?username=KindaJayant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-
-<br/>
-
-</div>
+**AI / LLM:** LangGraph · Promptfoo · PostHog · n8n · ChromaDB · Gemini · OpenRouter · RAG · multi-agent orchestration
+**Build:** Python · TypeScript · React · Next.js · FastAPI · PostgreSQL · MongoDB · AWS · Vercel
 
 ---
 
-## 🏆 Highlights
+## Beyond code
 
-- 🎯 Diagnosed & patched **20+ prompt and agent failures** in production LLM systems
-- 👥 Led ops for **Saturnalia** — Thapar's flagship 3-day event with 10,000+ participants, managing 70+ people
-- ⚡ Reduced per-company equity research time from **30+ minutes → under 60 seconds**
-- 📉 Cut MongoDB retrieval times by **75%** during web dev internship
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KindaJayant&color=6E40C9&style=flat-square" alt="Profile Views" />
-
-</div>
+- 👥 Led operations for **Saturnalia**, Thapar's flagship 3-day fest with 10,000+ participants, managing a team of 70+
+- ⚡ Cut MongoDB retrieval times by **75%** during a web development internship
